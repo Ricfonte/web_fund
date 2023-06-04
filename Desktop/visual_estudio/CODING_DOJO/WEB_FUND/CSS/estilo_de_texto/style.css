@@ -1,0 +1,25 @@
+#black {
+    background-color: black;
+    text-align: left;
+
+    color: white;
+
+}
+#turquesa {
+    background-color: black;
+    text-align: left;
+    color: rgb(4, 193, 246);
+}
+#purple {
+    background-color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    color: white
+
+}
+#bluelight {
+    background-color: skyblue;
+    text-align: right;
+    color: blue;
+    text-decoration: underline;
+}
